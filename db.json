@@ -122,11 +122,11 @@
         "email": "Adrian_Pietrzak@hotmail.com"
       },
       "landingImgUrl": "https://loremflickr.com/600/600/city?lock=37618",
-      "venueDescriptionImgUrls": {
-        "1": "https://loremflickr.com/600/600/nature?lock=22271",
-        "2": "https://loremflickr.com/600/600/nature?lock=80218",
-        "3": "https://loremflickr.com/600/600/nature?lock=32593"
-      }
+      "venueDescriptionImgUrls": [
+        "https://loremflickr.com/600/600/nature?lock=22271",
+        "https://loremflickr.com/600/600/nature?lock=80218",
+        "https://loremflickr.com/600/600/nature?lock=32593"
+      ]
     },
     {
       "id": 81336,
@@ -159,11 +159,11 @@
         "email": "Laura.Dominiak76@hotmail.com"
       },
       "landingImgUrl": "https://loremflickr.com/600/600/city?lock=33451",
-      "venueDescriptionImgUrls": {
-        "1": "https://loremflickr.com/600/600/nature?lock=43048",
-        "2": "https://loremflickr.com/600/600/nature?lock=18783",
-        "3": "https://loremflickr.com/600/600/nature?lock=19541"
-      }
+      "venueDescriptionImgUrls": [
+        "https://loremflickr.com/600/600/nature?lock=43048",
+        "https://loremflickr.com/600/600/nature?lock=18783",
+        "https://loremflickr.com/600/600/nature?lock=19541"
+      ]
     },
     {
       "id": 74278,
@@ -195,11 +195,11 @@
         "email": "Laurencjusz_Augustyn39@yahoo.com"
       },
       "landingImgUrl": "https://loremflickr.com/600/600/city?lock=26437",
-      "venueDescriptionImgUrls": {
-        "1": "https://loremflickr.com/600/600/nature?lock=78857",
-        "2": "https://loremflickr.com/600/600/nature?lock=45089",
-        "3": "https://loremflickr.com/600/600/nature?lock=4948"
-      }
+      "venueDescriptionImgUrls": [
+        "https://loremflickr.com/600/600/nature?lock=78857",
+        "https://loremflickr.com/600/600/nature?lock=45089",
+        "https://loremflickr.com/600/600/nature?lock=4948"
+      ]
     },
     {
       "id": 41655,
@@ -231,11 +231,11 @@
         "email": "Kleopatra.Stolarczyk61@gmail.com"
       },
       "landingImgUrl": "https://loremflickr.com/600/600/city?lock=46569",
-      "venueDescriptionImgUrls": {
-        "1": "https://loremflickr.com/600/600/nature?lock=76047",
-        "2": "https://loremflickr.com/600/600/nature?lock=61389",
-        "3": "https://loremflickr.com/600/600/nature?lock=67906"
-      }
+      "venueDescriptionImgUrls": [
+        "https://loremflickr.com/600/600/nature?lock=76047",
+        "https://loremflickr.com/600/600/nature?lock=61389",
+        "https://loremflickr.com/600/600/nature?lock=67906"
+      ]
     },
     {
       "id": 29872,
@@ -266,11 +266,11 @@
         "email": "Gerald_Przybysz14@gmail.com"
       },
       "landingImgUrl": "https://loremflickr.com/600/600/city?lock=6502",
-      "venueDescriptionImgUrls": {
-        "1": "https://loremflickr.com/600/600/nature?lock=68767",
-        "2": "https://loremflickr.com/600/600/nature?lock=12930",
-        "3": "https://loremflickr.com/600/600/nature?lock=93786"
-      }
+      "venueDescriptionImgUrls": [
+        "https://loremflickr.com/600/600/nature?lock=68767",
+        "https://loremflickr.com/600/600/nature?lock=12930",
+        "https://loremflickr.com/600/600/nature?lock=93786"
+      ]
     },
     {
       "id": 9875,
@@ -302,11 +302,11 @@
         "email": "Ansgary_Kalisz@hotmail.com"
       },
       "landingImgUrl": "https://loremflickr.com/600/600/city?lock=23618",
-      "venueDescriptionImgUrls": {
-        "1": "https://loremflickr.com/600/600/nature?lock=58454",
-        "2": "https://loremflickr.com/600/600/nature?lock=11709",
-        "3": "https://loremflickr.com/600/600/nature?lock=76524"
-      }
+      "venueDescriptionImgUrls": [
+        "https://loremflickr.com/600/600/nature?lock=58454",
+        "https://loremflickr.com/600/600/nature?lock=11709",
+        "https://loremflickr.com/600/600/nature?lock=76524"
+      ]
     },
     {
       "id": 81892,
@@ -337,11 +337,11 @@
         "email": "Angela_Romanowski@gmail.com"
       },
       "landingImgUrl": "https://loremflickr.com/600/600/city?lock=22135",
-      "venueDescriptionImgUrls": {
-        "1": "https://loremflickr.com/600/600/nature?lock=231",
-        "2": "https://loremflickr.com/600/600/nature?lock=54856",
-        "3": "https://loremflickr.com/600/600/nature?lock=51069"
-      }
+      "venueDescriptionImgUrls": [
+        "https://loremflickr.com/600/600/nature?lock=231",
+        "https://loremflickr.com/600/600/nature?lock=54856",
+        "https://loremflickr.com/600/600/nature?lock=51069"
+      ]
     }
   ],
   "localizationOptions": [
