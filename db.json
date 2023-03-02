@@ -92,8 +92,8 @@
       "landingImgUrl": "https://loremflickr.com/600/600/city?lock=22135"
     }
   ],
-  "venuesDetails": {
-    "1": {
+  "venuesDetails": [
+    {
       "id": 47148,
       "venueId": 1,
       "location": {
@@ -128,7 +128,7 @@
         "3": "https://loremflickr.com/600/600/nature?lock=32593"
       }
     },
-    "2": {
+    {
       "id": 81336,
       "venueId": 2,
       "location": {
@@ -165,7 +165,7 @@
         "3": "https://loremflickr.com/600/600/nature?lock=19541"
       }
     },
-    "3": {
+    {
       "id": 74278,
       "venueId": 3,
       "location": {
@@ -201,7 +201,7 @@
         "3": "https://loremflickr.com/600/600/nature?lock=4948"
       }
     },
-    "4": {
+    {
       "id": 41655,
       "venueId": 4,
       "location": {
@@ -237,7 +237,7 @@
         "3": "https://loremflickr.com/600/600/nature?lock=67906"
       }
     },
-    "5": {
+    {
       "id": 29872,
       "venueId": 5,
       "location": {
@@ -272,7 +272,7 @@
         "3": "https://loremflickr.com/600/600/nature?lock=93786"
       }
     },
-    "6": {
+    {
       "id": 9875,
       "venueId": 6,
       "location": {
@@ -308,7 +308,7 @@
         "3": "https://loremflickr.com/600/600/nature?lock=76524"
       }
     },
-    "7": {
+    {
       "id": 81892,
       "venueId": 7,
       "location": {
@@ -343,7 +343,7 @@
         "3": "https://loremflickr.com/600/600/nature?lock=51069"
       }
     }
-  },
+  ],
   "localizationOptions": [
     {
       "label": "Golina"
